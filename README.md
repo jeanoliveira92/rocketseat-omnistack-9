@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Aircnc" title="#delicinha" src="https://github.com/jeanoliveira92/rocketseat-omnistack-9/blob/master/frontend/src/assets/logo.svg" width="250px" />
+    <img alt="Aircnc" title="" src="https://github.com/jeanoliveira92/rocketseat-omnistack-9/blob/master/mobile/src/assets/logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
