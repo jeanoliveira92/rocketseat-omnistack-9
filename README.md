@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="https://github.com/jeanoliveira92/rocketseat-omnistack-9/blob/master/aircnc.png" width="100%">
+  <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/teste-adminissao-b2ml/master/screenshot.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
